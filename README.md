@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href="https://github.com/namyagaur">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=B026FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Namya+%F0%9F%91%8B;I+build+AI+products+end-to-end;From+idea+%E2%86%92+inference+%E2%86%92+interface;Currently+building+Aynam.ai" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=B026FF&center=true&vCenter=true&width=600&lines=I+build+AI+products+end-to-end;From+idea+%E2%86%92+inference+%E2%86%92+interface;Currently+building+Aynam.ai" alt="Typing SVG" />
 </a>
 
 <br><br>
